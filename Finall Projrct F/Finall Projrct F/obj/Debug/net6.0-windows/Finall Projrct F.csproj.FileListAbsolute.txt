@@ -1,0 +1,19 @@
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\bin\Debug\net6.0-windows\Finall Projrct F.exe
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\bin\Debug\net6.0-windows\Finall Projrct F.deps.json
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\bin\Debug\net6.0-windows\Finall Projrct F.runtimeconfig.json
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\bin\Debug\net6.0-windows\Finall Projrct F.dll
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\bin\Debug\net6.0-windows\Finall Projrct F.pdb
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall Projrct F.csproj.AssemblyReference.cache
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall_Projrct_F.Form1.resources
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall_Projrct_F.Properties.Resources.resources
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall Projrct F.csproj.GenerateResource.cache
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall Projrct F.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall Projrct F.AssemblyInfoInputs.cache
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall Projrct F.AssemblyInfo.cs
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall Projrct F.csproj.CoreCompileInputs.cache
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall Projrct F.dll
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\refint\Finall Projrct F.dll
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall Projrct F.pdb
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall Projrct F.genruntimeconfig.cache
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\ref\Finall Projrct F.dll
+D:\Github\Lab004\Final Project D\Finall Projrct F\Finall Projrct F\obj\Debug\net6.0-windows\Finall_Projrct_F.login.resources
